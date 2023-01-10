@@ -1,0 +1,13 @@
+.my-4{
+    text-align: center;
+}
+
+body{
+    background-color: hsl(201, 93%, 76%);
+}
+
+footer{
+    background-color: hsl(201, 93%, 76%);
+    text-align: center;
+    padding: 2% 4%;
+}
